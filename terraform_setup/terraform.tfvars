@@ -1,4 +1,4 @@
-# Please fill in the values for all the variables here
+# Please fill in  the values for all the variables here
 
 aws_access_key = "AKIAIG2UC3IJSJQZ2CKA"
 aws_secret_key = "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"
